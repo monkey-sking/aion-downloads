@@ -8,7 +8,10 @@ contain the Aion application source code.
 ## Download
 
 Visit [Releases](https://github.com/monkey-sking/aion-downloads/releases/latest)
-to download the latest signed Aion installer.
+to download the latest signed Aion installer. The current release is also
+available directly from GitHub Pages:
+
+[Aion 2.12.25](https://monkey-sking.github.io/aion-downloads/Aion_2.12.25_manual.dmg)
 
 ## Verify a download
 
