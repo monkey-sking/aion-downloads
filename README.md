@@ -1,7 +1,7 @@
 # Aion Downloads
 
 <!-- badges:start -->
-[![Stars](https://img.shields.io/github/stars/monkey-sking/aion-downloads?style=flat-square)](https://github.com/monkey-sking/aion-downloads/stargazers) [![Forks](https://img.shields.io/github/forks/monkey-sking/aion-downloads?style=flat-square)](https://github.com/monkey-sking/aion-downloads/network/members) [![Last commit](https://img.shields.io/github/last-commit/monkey-sking/aion-downloads?style=flat-square)](https://github.com/monkey-sking/aion-downloads/commits/main)
+[![Stars](https://img.shields.io/github/stars/monkey-sking/aion-downloads?style=flat-square)](https://github.com/monkey-sking/aion-downloads/stargazers) [![Forks](https://img.shields.io/github/forks/monkey-sking/aion-downloads?style=flat-square)](https://github.com/monkey-sking/aion-downloads/network/members) [![Last commit](https://img.shields.io/github/last-commit/monkey-sking/aion-downloads?style=flat-square)](https://github.com/monkey-sking/aion-downloads/commits/main) [![Latest Release](https://img.shields.io/github/v/release/monkey-sking/aion-downloads?style=flat-square)](https://github.com/monkey-sking/aion-downloads/releases/latest) [![Downloads](https://img.shields.io/github/downloads/monkey-sking/aion-downloads/total?style=flat-square)](https://github.com/monkey-sking/aion-downloads/releases)
 <!-- badges:end -->
 
 Official public release downloads for [Aion](https://aion.7caifei.com/), a macOS app.
