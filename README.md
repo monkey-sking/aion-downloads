@@ -1,5 +1,9 @@
 # Aion Downloads
 
+<!-- badges:start -->
+[![Stars](https://img.shields.io/github/stars/monkey-sking/aion-downloads?style=flat-square)](https://github.com/monkey-sking/aion-downloads/stargazers) [![Forks](https://img.shields.io/github/forks/monkey-sking/aion-downloads?style=flat-square)](https://github.com/monkey-sking/aion-downloads/network/members) [![Last commit](https://img.shields.io/github/last-commit/monkey-sking/aion-downloads?style=flat-square)](https://github.com/monkey-sking/aion-downloads/commits/main)
+<!-- badges:end -->
+
 Official public release downloads for [Aion](https://aion.7caifei.com/), a macOS app.
 
 This repository contains release packages and download metadata only. It does not
